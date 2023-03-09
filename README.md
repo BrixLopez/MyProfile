@@ -1,6 +1,6 @@
 # MyProfile
 
-![A small image](IMG_0015.jpeg)
+![Alt](IMG_0015.jpeg)
 **Welcome to my Profile!**
 ---
 ## Bio
