@@ -15,11 +15,11 @@
 # Accomplishment
 ### I am honored to be the Professional of the Week, awarded last February 28th, 2023, from our Learning and Development pace at Year Up Project Management Certificate. This award made me proud that in any environment I am, I always accomplish something that will make me grow and improve. I also finished the Google Coursera Project Management Certificate, which led me to earn an internship at Accenture. I can't believe I accomplished this achievement in just three months, and I look forward to learning more and growing throughout my journey at Year Up.
 ## Professional of the week
-![Alt]()
+![alt text]()
 ## Coursera Certificate
 ![Alt](CERTIFICATE_LANDING_PAGE~GX7MDZMKH7Y3.jpeg)
 ## Internsip 
-![Alt](SS Small.jpeg)
+
 
 ---
 ---
