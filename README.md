@@ -7,7 +7,6 @@
 # Bio
 ### Brix Lopez here. My love is working with computers, and I'm now pursuing a project management certificate at Year Up. I am really motivated to put my knowledge and talents to use in order to assist firms in streamlining their operations and effectively achieving their objectives. I'm excited to use my experience in project management and technical background to contribute to the tech sector. If you give me the chance, I'd love to talk with you more about how I might help your team. Let's connect and explore the ideas.
 ---
----
 # Journey
 ### My journey at Year Up was enjoyable and challenging, and I learned a lot of new things in a fast-paced environment. I like the learning process, which has asynchronous and synchronous classes that help me manage my time and knowledge on consuming information. The support of each staff helps me enhance my professional skills and allows me to pursue a career in Project Management. I also appreciate my classmates encouraging everyone to finish an assignment and activities, and their support motivates me to improve every day. 
 ---
