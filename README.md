@@ -27,6 +27,7 @@
 ---
 ## Contact 
 ### Please feel free to contact me on this links
-[LinkedIn](https://www.linkedin.com/in/brixlopez/)
-[GitHub](https://github.com/BrixLopez)
+### [LinkedIn](https://www.linkedin.com/in/brixlopez/)
+---
+### [GitHub](https://github.com/BrixLopez)
 
