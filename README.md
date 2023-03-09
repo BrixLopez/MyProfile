@@ -19,7 +19,6 @@
 ## Coursera Certificate
 ![alt text](CERTIFICATE_LANDING_PAGE~GX7MDZMKH7Y3.jpeg)
 ## Internsip 
-
 ![alt text](SS Small.jpeg)
 
 ---
