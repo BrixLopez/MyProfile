@@ -20,7 +20,7 @@
 ![alt text](sss.jpeg)
 ## Coursera Certificate
 ![alt text](CERTIFICATE_LANDING_PAGE~GX7MDZMKH7Y3.jpeg)
-## Internsip 
+## Internship
 ![alt text](SS Small.jpeg)
 
 ---
