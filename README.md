@@ -4,7 +4,7 @@
 Meow
 
 
-![alt text]()
+![A small image]()
 **Welcome to my Profile!**
 ---
 | **Bio** | **Journey** | **Accomplishment** | **Contact** |
