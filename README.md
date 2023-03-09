@@ -19,7 +19,7 @@
 ## Coursera Certificate
 ![Alt](CERTIFICATE_LANDING_PAGE~GX7MDZMKH7Y3.jpeg)
 ## Internsip 
-![Alt]()
+![Alt](Screenshot 2023-02-28 at 4.58.38 PM.png)
 ---
 ---
 ## Contact 
