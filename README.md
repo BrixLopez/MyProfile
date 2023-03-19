@@ -1,5 +1,3 @@
-# MyProfile
-
 ## Welcome to my Profile!
 ---
 ![Alt](IMG_0015.jpeg)
