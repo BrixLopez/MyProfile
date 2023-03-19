@@ -22,8 +22,8 @@ I am honored to be the Professional of the Week, awarded last February 28th, 202
 
 ---
 ---
-## Contact 
-### Please feel free to contact me on this links
+### Contact 
+Please feel free to contact me on this links
 ### [LinkedIn](https://www.linkedin.com/in/brixlopez/)
 ---
 ### [GitHub](https://github.com/BrixLopez)
